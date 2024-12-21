@@ -18,4 +18,4 @@
 14. Refactoring
 15. Final Exam
 
-[Course textbook is: Object-Oriented Software Engineering Using UML, Patterns, JAVA](Textbook)
+[Course textbook is: Object-Oriented Software Engineering Using UML, Patterns, JAVA](Textbook/Object-oriented-Software-Engineering-3rd-Edition.pdf)
