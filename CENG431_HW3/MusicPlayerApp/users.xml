@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><users>
+	<user>
+		<username>Tuğkan Tuğlular</username>
+		<password>12345678</password>
+		<following_user_names>
+
+			<following_user>Gökay Gülsoy</following_user>
+			<following_user>Dilek Öztürk</following_user>
+			<following_user>Emrah inan</following_user>
+		</following_user_names>
+		<follower_user_names>
+			<follower_user>Emrah inan</follower_user>
+			<follower_user>Dilek Öztürk</follower_user>
+		<follower_user>Gökay Gülsoy</follower_user></follower_user_names>
+	</user>
+	<user>
+		<username>Dilek Öztürk</username>
+		<password>123987</password>
+		<following_user_names>
+			<following_user>Tuğkan Tuğlular</following_user>
+			<following_user>Serhat Caner</following_user>
+		</following_user_names>
+		<follower_user_names>
+
+			<follower_user>Tuğkan Tuğlular</follower_user>
+		<follower_user>Emrah inan</follower_user><follower_user>Gökay Gülsoy</follower_user></follower_user_names>
+	</user>
+	<user>
+		<username>Serhat Caner</username>
+		<password>987654</password>
+		<following_user_names>
+
+		</following_user_names>
+		<follower_user_names>
+
+			<follower_user>Dilek Öztürk</follower_user>
+		<follower_user>Emrah inan</follower_user></follower_user_names>
+	</user>
+	<user>
+		<username>Gökay Gülsoy</username>
+		<password>BEYAZDEDE-07</password>
+		<following_user_names>
+
+		<following_user>Tuğkan Tuğlular</following_user><following_user>Dilek Öztürk</following_user><following_user>Emrah inan</following_user></following_user_names>
+		<follower_user_names>
+
+			<follower_user>Tuğkan Tuğlular</follower_user>
+		</follower_user_names>
+	</user>
+	<user>
+		<username>Emrah inan</username>
+		<password>56789</password>
+		<following_user_names>
+			<following_user>Tuğkan Tuğlular</following_user>
+		<following_user>Dilek Öztürk</following_user>
+		<following_user>Serhat Caner</following_user></following_user_names>
+		<follower_user_names>
+
+			<follower_user>Tuğkan Tuğlular</follower_user>
+		<follower_user>Gökay Gülsoy</follower_user></follower_user_names>
+	</user>
+</users>

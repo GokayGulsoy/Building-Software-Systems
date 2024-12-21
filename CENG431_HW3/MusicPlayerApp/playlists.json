@@ -1,0 +1,67 @@
+[
+	{
+		"playlist_id": 1,
+		"creator_user_name": "Tuğkan Tuğlular",
+		"playlist_name": "Hip-Hop Goodies",
+		"playlist_type": "Hip-Hop",
+		"number_of_songs": 2,
+		"duration": 438,
+		"song_list": [
+			"Get Lucky",
+			"Pink Moon"
+		]
+	},
+	{
+		"playlist_id": 2,
+		"creator_user_name": "Tuğkan Tuğlular",
+		"playlist_name": "Turkish Alaturca",
+		"playlist_type": "Instrumental",
+		"number_of_songs": 3,
+		"duration": 674,
+		"song_list": [
+			"Young Americans",
+			"The Message",
+			"Come As You Are"
+		]
+	},
+	{
+		"playlist_id": 3,
+		"creator_user_name": "Dilek Öztürk",
+		"playlist_name": "Rock Goodies",
+		"playlist_type": "Rock",
+		"number_of_songs": 3,
+		"duration": 707,
+		"song_list": [
+			"Call Me Maybe",
+			"Uptown Funk",
+			"Firework"
+		]
+	},
+	{
+		"playlist_id": 4,
+		"creator_user_name": "Emrah inan",
+		"playlist_name": "Instrumental Goodies",
+		"playlist_type": "Instrumental",
+		"number_of_songs": 4,
+		"duration": 1109,
+		"song_list": [
+			"The Sidewinder",
+			"The Girl From Ipanema",
+			"Single Ladies (Put a Ring on It)",
+			"Royals"
+		]
+	},
+	{
+		"playlist_id": 5,
+		"creator_user_name": "Gökay Gülsoy",
+		"playlist_name": "Pop Goodies",
+		"playlist_type": "Pop",
+		"number_of_songs": 3,
+		"duration": 913,
+		"song_list": [
+			"All The Things You Are",
+			"Mack the Knife",
+			"Take Five"
+		]
+	}
+]
